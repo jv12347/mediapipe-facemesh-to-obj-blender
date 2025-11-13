@@ -1,5 +1,8 @@
 # MediaPipe Face Mesh to OBJ Converter
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+
 A Python tool that converts 2D face images to 3D OBJ models using MediaPipe's 468 facial landmarks. Perfect for creating 3D face models for Blender, Unity, or other 3D software.
 
 **Author:** [Ahmet Mert Şengöl](https://github.com/ahmertsengol)
@@ -87,4 +90,6 @@ The script generates three files:
 
 ## License
 
-This project is open source and available for educational purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2025 Ahmet Mert Şengöl
