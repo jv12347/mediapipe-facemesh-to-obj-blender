@@ -57,12 +57,6 @@ The script generates three files:
 - `mediapipe_to_obj.py` - Full version with error handling
 - `mediapipe_to_obj_clean.py` - Clean output wrapper (filters warnings)
 
-## Documentation
-
-- [KULLANIM.md](KULLANIM.md) - Turkish usage guide
-- [KURULUM.md](KURULUM.md) - Turkish installation guide
-- [TEST_KILAVUZU.md](TEST_KILAVUZU.md) - Turkish testing guide
-
 ## Known Limitations
 
 - Nose detection may not always match the reference image perfectly
